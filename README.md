@@ -1,4 +1,4 @@
-# 🎨 Flutter Login UI Kit by Kenzao
+# flutter_ui_theme_kit Kit by Kenzao
 
 Koleksi template login screen self-contained dengan arsitektur linear & zero-dependency.
 

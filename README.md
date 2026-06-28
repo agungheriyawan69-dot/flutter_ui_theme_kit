@@ -1,6 +1,6 @@
 # flutter_ui_theme_kit Kit by Kenzao
-
-Koleksi template login screen self-contained dengan arsitektur linear & zero-dependency.
+_
+Koleksi template UI flutter self-contained dengan arsitektur linear 
 
 ## 📦 Tema Tersedia
 
@@ -10,7 +10,9 @@ Koleksi template login screen self-contained dengan arsitektur linear & zero-dep
 - Responsive grid dashboard (max-width constrained)
 - [Lihat Dokumentasi Lengkap](lib/templates/biometric/README.md)
 
-### 🚀 Coming Soon
+### 🚀 On Progress
 - Neon Cyberpunk
+
+### 🚀 Coming Soon
 - Split Layout Corporate
 - Glassmorphism Minimal

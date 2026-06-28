@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_login_uikit/templates/biometric/register_biometric.dart';
+import 'package:flutter_ui_theme_kit/templates/biometric/register_biometric.dart';
 import 'dart:async';
 import 'dashboard_biometric.dart';
 import 'theme_provider.dart';

@@ -1,5 +1,5 @@
-name: flutter_login_uikit
-description: "A new Flutter project."
+name: flutter_ui_theme_kit
+description: Comprehensive Flutter UI Theme Kit with advanced shaders and multi-theme support.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -51,7 +51,8 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
+  shaders:
+    - shaders/neon_liquid.frag
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.

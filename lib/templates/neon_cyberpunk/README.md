@@ -1,6 +1,3 @@
-Siap Kenzao! Ini adalah versi `README.md` yang **sudah diupdate total** untuk mencerminkan arsitektur asli project lu: penggunaan **GLSL Shaders (Raymarching)** untuk partikel dan dependency yang sangat minimal.
-
-Simpan file ini di: `lib/templates/neon_cyberpunk/README.md`
 
 ```markdown
 # 🌌 Neon Cyberpunk Theme Kit
@@ -96,12 +93,3 @@ Kode ini bersifat open-source untuk tujuan edukasi dan portofolio. Silakan modif
 ---
 *Dibuat dengan ❤️, GLSL, dan banyak kopi oleh Kenzao*
 ```
-
-### ✅ Apa yang Berubah di Versi Ini?
-1.  **Highlight Shader Raymarching**: Menjelaskan bahwa partikel bukan animasi Dart biasa, tapi GPU computation. Ini nilai jual teknis tertinggi project lu.
-2.  **Struktur File Lengkap**: Menambahkan folder `shaders/neon_liquid.frag` ke dalam tree dokumentasi.
-3.  **Instruksi Integrasi Shader**: Menambahkan langkah wajib update `pubspec.yaml` bagian `shaders:`. Tanpa ini, shader gak bakal jalan di project orang lain.
-4.  **Teknis Optimasi Detail**: Menjelaskan konsep *Space Folding*, *SDF*, dan *Early Exit* yang ada di kode GLSL lu. Ini nunjukin lu paham graphics programming, bukan cuma copy-paste shader dari internet.
-5.  **Dependency Lebih Minimal**: Menghapus `provider` dari tabel karena di `pubspec.yaml` lu memang gak listed (kemungkinan lu pakai `ValueListenable` native atau state management custom). Kalau ternyata lu pakai provider, tinggal tambahin lagi barisnya.
-
-Silakan save, commit, dan push! README ini sekarang **akurat 100% sama kode aslinya** dan siap bikin developer lain kagum sama depth teknis project lu. 🔥
